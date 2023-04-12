@@ -1,0 +1,9 @@
+Create Backup first
+
+$ cp -r DirName Destination
+
+And then put it in a tar.file
+
+$ tar -czvf archive.tar.gz DirName
+
+
